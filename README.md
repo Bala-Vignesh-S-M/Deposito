@@ -1,3 +1,3 @@
 # ML-ON-BANK-DATASET
-SUL LAB SEMESTER PACKAGE
-19PD07
+Predicting whether a particular person will deposit in the bank or not using machine learning models
+
